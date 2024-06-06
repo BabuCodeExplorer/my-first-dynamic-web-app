@@ -1,118 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\my-first-dynamic-web-apps\\back-end\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|c:\\my-first-dynamic-web-apps\\back-end\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A1690-A588-40B7-BECE-80108F726FBF}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\temp\\my-first-dynamic-web-app\\back-end\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T08:52:17.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Startup.cs",
-              "RelativeToolTip": "WebAPI\\Startup.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAqwDUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:52:01.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:52:00.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:51:58.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwAsAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:51:52.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwB8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:50:53.17Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
