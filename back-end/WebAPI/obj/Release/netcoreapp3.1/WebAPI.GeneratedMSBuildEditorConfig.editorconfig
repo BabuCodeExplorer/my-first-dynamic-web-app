@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebAPI
+build_property.ProjectDir = C:\azure-workshop\WebAPI\WebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = WebAPI
+build_property.ProjectDir = C:\my-first-dynamic-web-apps\back-end\WebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
