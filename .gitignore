@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/back-end/WebAPI/bin/Debug/netcoreapp3.1
+/back-end/WebAPI/bin
+/back-end/WebAPI/obj
+/.vs
