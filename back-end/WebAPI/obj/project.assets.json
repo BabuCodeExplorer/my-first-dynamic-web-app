@@ -699,11 +699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\temp\\my-first-dynamic-web-app\\back-end\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\temp\\my-first-dynamic-web-app\\back-end\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\bso4cob\\.nuget\\packages\\",
-      "outputPath": "C:\\my-first-dynamic-web-apps\\back-end\\WebAPI\\obj\\",
+      "outputPath": "C:\\temp\\my-first-dynamic-web-app\\back-end\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bso4cob\\AppData\\Roaming\\NuGet\\NuGet.Config",
