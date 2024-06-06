@@ -1,0 +1,46 @@
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary float-right m-2" data-bs-toggle="modal" data-bs-target="#exampleModal"
+    (click)=AddDepartment() data-backdrop="static" data-keyboard="false">
+    Add Department
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">{{modalTitle}}</h5>
+          <button type="button" (click)="CloseClick()" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <app-add-edit-dep [department]="department" *ngIf="activateAddEditCom">
+
+          </app-add-edit-dep>
+        </div>
+      </div>
+    </div>
+  </div>
+l
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Department Id</th>
+            <th>Department Name</th>
+            <th>Option</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of departmentList">
+            <td>{{dataItem.DepartmentId}}</td>
+            <td>{{dataItem.DepartmentName}}</td>
+            <td>
+                <button type="button" class="btn btn-primary float-right m-2" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                    (click)=EditDepartment(dataItem)>
+                    Edit
+                </button>
+                <button type="button" class="btn btn-primary" (click)="DeleteClick(dataItem.DepartmentId)">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+
+</table>

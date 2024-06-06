@@ -1,0 +1,10 @@
+<div class="form-group row">
+    <label class="col-sm-2">Department Name</label>
+    <div class="col-sm-10">
+        <input type="text" [(ngModel)]="DepartmentName">
+    </div>
+</div>
+
+<button type="button" (click)="addDepartment()" class="btn btn-primary" *ngIf="department.DepartmentId==0">Add Department</button>
+<button type="button" (click)="updateDepartment()" class="btn btn-primary" *ngIf="department.DepartmentId!=0">
+    Update Department</button>
